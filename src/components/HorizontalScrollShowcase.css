@@ -1,0 +1,17 @@
+@media (max-width: 767px) {
+  .hss-mobile .hss-text-col {
+    margin-bottom: 3rem !important;
+  }
+  .hss-mobile .hss-img-col {
+    margin-top: 4rem !important;
+    display: flex;
+    justify-content: center;
+  }
+  .hss-mobile .hss-img-inner {
+    width: 120px !important;
+    height: 120px !important;
+  }
+  .hss-mobile .hss-block {
+    margin-bottom: 1.5rem !important;
+  }
+} 

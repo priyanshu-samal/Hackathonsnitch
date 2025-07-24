@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+/* Satoshi Font Family - Local WOFF2 Files */
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Light.woff2') format('woff2'),
+       url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Light.woff') format('woff');
+  font-weight: 300;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff2') format('woff2'),
+       url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Regular.woff') format('woff');
+  font-weight: 400;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff2') format('woff2'),
+       url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Medium.woff') format('woff');
+  font-weight: 500;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff2') format('woff2'),
+       url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Bold.woff') format('woff');
+  font-weight: 700;
+  font-display: swap;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Black.woff2') format('woff2'),
+       url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/WEB/fonts/Satoshi-Black.woff') format('woff');
+  font-weight: 900;
+  font-display: swap;
+  font-style: normal;
+}
+
+* {
+  font-family: 'Satoshi', sans-serif;
+}
+
+@font-face {
+  font-family: 'SatoshiVar';
+  src: url('/Satoshi_Complete (1)/Satoshi_Complete/Fonts/TTF/Satoshi-Variable.ttf') format('truetype');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+}

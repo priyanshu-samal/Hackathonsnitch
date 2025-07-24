@@ -1,12 +1,78 @@
-# React + Vite
+# 🧥 SNITCH – Fashion Brand Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![YouTube Video](https://img.shields.io/badge/Watch%20Demo-%F0%9F%93%BA-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
-Currently, two official plugins are available:
+> A sleek, interactive, and modern website designed for the fashion brand **Snitch**, built as part of a frontend hackathon challenge.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Live Demo
 
-## Expanding the ESLint configuration
+🔗 **[Visit the Website](https://your-live-demo-link.com)**
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Preview
+
+![Homepage](./public/screenshots/homepage.png)
+![Collection Page](./public/screenshots/collection.png)
+![Responsive Mobile View](./public/screenshots/mobile.png)
+
+---
+
+## 🚀 Features
+
+- 🎯 Smooth Parallax Scroll with GSAP + Lenis
+- 🧠 Modular & Scalable React Architecture
+- 📦 Reusable, Animated UI Components (React-Bit)
+- 🌀 Scroll-based animations (ScrollTrigger)
+- 🪄 Interactive image effects and transitions
+- 📱 Fully Responsive Design
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology    | Description                         |
+|--------------|-------------------------------------|
+| **React.js** | UI library for building components |
+| **Tailwind CSS** | Utility-first modern styling     |
+| **GSAP**     | Scroll animations + Parallax        |
+| **Lenis**    | Smooth scrolling experience         |
+| **Framer Motion** | Micro-interactions & animation |
+| **React-Bit** | Custom reusable components         |
+
+---
+
+## 🧠 Learning & Challenges
+
+- Created custom scroll-based section transitions
+- Managed animation lifecycle with GSAP + ScrollTrigger
+- Integrated component-based animations without prop drilling
+- Tweaked performance using lazy loading & efficient rendering
+
+---
+
+## 📂 Folder Structure (Simplified)
+
+src/
+├── components/ # All reusable UI blocks
+├── pages/ # Individual screens (Home, Collection)
+├── styles/ # Tailwind config and global styles
+├── utils/ # Lenis, GSAP configs
+└── assets/ # Fonts, Images
+
+yaml
+Copy
+Edit
+
+---
+
+## 🧑‍💻 Author
+
+**Priyanshu Samal**  
+📫 [LinkedIn](https://linkedin.com/in/priyanshusamal) • 🌐 [Portfolio](https://yourportfolio.com)
+
+---
+
+## 📜 License
+
+This project is for demo/hackathon purposes and is not affiliated with Snitch.in.
